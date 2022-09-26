@@ -1,0 +1,75 @@
+Sexe:
+Homme(H)==>0
+femme(V)==>1
+
+{
+    "fecha_dato":897,
+    "EmployeeIndex":1,
+    "CustomerRresidence":3,
+    "sexe":0,
+    "age":88,
+    "ind_nuevo":0,
+    "canal_entrada":9,
+    "indfall":0,
+    "cod_prov":8,
+    "ind_actividad_cliente":1,
+    "GrossIncome":9000,
+    "segmentation":0
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+    "employee_index":1,
+    {
+    A==0 B==1 F==2 N==3 S==4
+    }
+    "CustomerRresidence":3,
+    {
+    AD 0 AE 1 AL 2 AO 3 AR 4 AT 5 AU 6 BA 7 BE 8 BG 9
+    }
+
+
+
+
+
+
+
+
+
+    "canal_entrada":9,
+    {
+    004 0 007 1 013 2 K00 3 KAA 4 KAB 5 KAC 6 KAD 7 KAE 8 KAF 9
+    }
+
+
+
+
+
+
+    "cod_prov":8,
+    {
+  ALAVA 1.0 ALBACETE 2.0 ALICANTE 3.0 ALMERIA 4.0 ASTURIAS 33.0 AVILA 5.0 BADAJOZ 6.0 BALEARS, ILLES 7.0 BARCELONA 8.0 BIZKAIA 48.0
+  }
+
+
+
+
+
+    "segmentation":0
+    {
+    1 - TOP 0 02 - PARTICULARES 1 03 - UNIVERSITARIO 2}
+}
